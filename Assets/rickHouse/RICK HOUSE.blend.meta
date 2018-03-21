@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 54350a434b9cb4dd99cab83509ab5e5d
+timeCreated: 1521469055
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baseballbat
+    100002: baseballbat_MeshPart0
+    100004: baseballbat_MeshPart1
+    100006: etabli
+    100008: etag_re
+    100010: horloge
+    100012: lavabo
+    100014: lave_linge
+    100016: maison
+    100018: Meeseeks_Box
+    100020: //RootNode
+    100022: seche_linge
+    100024: tableau
+    400000: baseballbat
+    400002: baseballbat_MeshPart0
+    400004: baseballbat_MeshPart1
+    400006: etabli
+    400008: etag_re
+    400010: horloge
+    400012: lavabo
+    400014: lave_linge
+    400016: maison
+    400018: Meeseeks_Box
+    400020: //RootNode
+    400022: seche_linge
+    400024: tableau
+    2300000: baseballbat_MeshPart0
+    2300002: baseballbat_MeshPart1
+    2300004: etabli
+    2300006: etag_re
+    2300008: horloge
+    2300010: lavabo
+    2300012: lave_linge
+    2300014: maison
+    2300016: Meeseeks_Box
+    2300018: seche_linge
+    2300020: tableau
+    3300000: baseballbat_MeshPart0
+    3300002: baseballbat_MeshPart1
+    3300004: etabli
+    3300006: etag_re
+    3300008: horloge
+    3300010: lavabo
+    3300012: lave_linge
+    3300014: maison
+    3300016: Meeseeks_Box
+    3300018: seche_linge
+    3300020: tableau
+    4300000: horloge
+    4300002: etabli
+    4300004: lavabo
+    4300006: etag_re
+    4300008: lave_linge
+    4300010: seche_linge
+    4300012: tableau
+    4300014: maison
+    4300016: Meeseeks_Box
+    4300018: baseballbat_MeshPart0
+    4300020: baseballbat_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
