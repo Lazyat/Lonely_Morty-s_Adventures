@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F03A6D35-5C8A-8240-DBFD-9722E4A6BEC7}</ProjectGuid>
+    <ProjectGuid>{17C4A8CA-634C-2930-0327-4DB336D0776F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,7 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\anim.cs" />
+     <Compile Include="Assets\script\anim.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/opt/Unity-5.6.0/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
