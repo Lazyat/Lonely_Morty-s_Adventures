@@ -21,7 +21,7 @@ public class anim : MonoBehaviour {
 		mortyVD = new Vector3(-2.5f, 0.1f, 4.3f);
 		base0 = new Quaternion();
 
-		MakeAnim(mortyTombe, mortyDab);
+		MakeAnim(mortyMarche, mortyLance);
 	}
 
 	void MakeAnim (GameObject morty1, GameObject morty2){
